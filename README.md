@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ASHNARENYJACOB
 - 👀 I’m interested in ...Data
 - 🌱 I’m currently learning ...Data Analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...data analytics supporting organizations.
 - 📫 How to reach me ...ashnarenyjacob003@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Human Being
 - ⚡ Fun fact: ...
 
 <!---
