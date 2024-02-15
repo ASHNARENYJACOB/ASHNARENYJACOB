@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Data
 - 🌱 I’m currently learning ...Data Analytics
 - 💞️ I’m looking to collaborate on ...data analytics supporting organizations.
-- 📫 How to reach me ...ashnarenyjacob003@gmail.com
+- 📫 How to reach me ...ashnarenyjacob0003@gmail.com
 - 😄 Pronouns: ...Human Being
 - ⚡ Fun fact: ...
 
