@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASHNARENYJACOB
+- 👋 Hi, I’m @ASHNA RENY JACOB
 - 👀 I’m interested in ...Data
 - 🌱 I’m currently learning ...Data Analytics
 - 💞️ I’m looking to collaborate on ...data analytics supporting organizations.
